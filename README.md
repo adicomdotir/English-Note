@@ -1,51 +1,65 @@
 # English-Note
 
-// Ability: I can climb a tree without any tools.
+  
 
-// I can drive a truck.
+**Ability**: I can climb a tree without any tools.
 
-// I can run 100 kilometer.
+1. I can drive a truck.
 
+2. I can run 100 kilometer.
 
-// Possibility: It can get seriously cold here at nights.
+  
+  
 
-// It can get rainy.
+**Possibility**: It can get seriously cold here at nights.
 
-// It can get snowy.
+1. It can get rainy.
 
+2. It can get snowy.
 
-// Offer: I can give you ride!
+  
+  
 
-// I can help you.
+**Offer**: I can give you ride!
 
-// I can play with you.
+1. I can help you.
 
+2. I can play with you.
 
-// Permission: You can use my car in case you needed.
+  
+  
 
-// You can use my laptop in case you needed.
+**Permission**: You can use my car in case you needed.
 
-// You can sleep in my bed.
+1. You can use my laptop in case you needed.
 
+2. You can sleep in my bed.
 
-// Request: Can I use your sunglasses?
+  
+  
 
-// Can I use your laptop?
+**Request**: Can I use your sunglasses?
 
-// Can I sleep in your bed?
+1. Can I use your laptop?
 
+2. Can I sleep in your bed?
 
-// Prohibition: You can’t park your car here.
+  
+  
 
-// You can't use my laptop.
+**Prohibition**: You can’t park your car here.
 
-// You can't sleep in my bed.
+1. You can't use my laptop.
 
+2. You can't sleep in my bed.
 
-// Certain guess: He certainly can’t be the manager!
+  
+  
 
-// You certainly can't be a programmer.
+**Certain  guess**: He certainly can’t be the manager!
 
-// She certainly can't be a swimmer.
+1. You certainly can't be a programmer.
 
-// I certainly can be a millionaire.
+2. She certainly can't be a swimmer.
+
+3. I certainly can be a millionaire.
